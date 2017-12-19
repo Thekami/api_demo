@@ -1,0 +1,16 @@
+
+			HOST: localhost
+
+			content-type: application/x-www-form-urlencoded
+
+			header: c3nS0s20_17!
+
+			cookie: PHPSESSID=ltbldc5jk889tkto0mln7s1ir0
+
+			HOST: localhost
+
+			content-type: application/x-www-form-urlencoded
+
+			header: c3nS0s20_17!
+
+			cookie: PHPSESSID=ltbldc5jk889tkto0mln7s1ir0
